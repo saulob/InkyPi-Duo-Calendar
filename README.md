@@ -50,6 +50,7 @@ This plugin is an extension for the [InkyPi](https://github.com/fatihak/InkyPi) 
 
 ## Screenshots
 
-### Preview
+- Duo Calendar widget on the main dashboard
+- Plugin settings screen
 
-### Real Hardware
+<p align="center"> <img src="screenshots/example.png" width="45%" /> <img src="screenshots/settings.png" width="45%" /> </p>
